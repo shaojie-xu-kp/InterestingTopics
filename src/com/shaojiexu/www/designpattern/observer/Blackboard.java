@@ -1,4 +1,4 @@
-package com.shaojie.www.designpattern.observer;
+package com.shaojiexu.www.designpattern.observer;
 
 import java.util.Observable;
 

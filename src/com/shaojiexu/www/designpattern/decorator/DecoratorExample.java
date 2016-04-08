@@ -1,4 +1,4 @@
-package com.shaojie.www.designpattern.decorator;
+package com.shaojiexu.www.designpattern.decorator;
 
 public class DecoratorExample {
 	
